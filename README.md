@@ -1,4 +1,4 @@
-# Math Proba
+# Mathematique Probabilité
 Import IUT Informatique 2022
 
 Projet De Mathematique Sur Les Marches aléatoires: 
